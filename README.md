@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎯 Frontend Developer with **1+ years of experience** in building mobile-friendly, responsive web applications.
+- 🎯 Frontend Developer with **approximately 2 years of experience** in building mobile-friendly, responsive web applications.
 - 🔭 Currently working at **Tangio Brand Solutions** and previously contributed at **Maps of India**.
 - 🌱 Upskilling in **Angular**, exploring **Node.js**, and advancing my **PHP** and **SQL** skills.
 - 💡 Passionate about crafting visually stunning and user-centric designs that offer seamless user experiences.
