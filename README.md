@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! I'm Nurul Hasan</h1>
-<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 Web Developer | UI/UX Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&width=600&lines=Frontend+Developer+%7C+Crafting+Elegant+UI/UX;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Tailwind;Open+to+Collaborations+%7C+Always+Learning!" alt="Typing animation">
@@ -8,11 +8,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎯 Frontend Developer with **approximately 2 years of experience** in building mobile-friendly, responsive web applications.
+- 🎯 Web Developer with **over a 2+ years of experience** in building mobile-friendly, responsive web applications.
 - 🔭 Currently working at **Tangio Brand Solutions** and previously contributed at **Maps of India**.
 - 🌱 Upskilling in **Angular**, exploring **Node.js**, and advancing my **PHP** and **SQL** skills.
 - 💡 Passionate about crafting visually stunning and user-centric designs that offer seamless user experiences.
-- 💬 Ask me about **HTML, CSS, JavaScript, React, WordPress, Tailwind, Bootstrap, PHP, SQL**.
+- 💬 Ask me about **HTML, CSS, JavaScript, WordPress, React, Tailwind, Bootstrap, PHP, SQL**.
 - 🌐 Explore my portfolio: [**hasan-siddqui.github.io/my_portfolio/**](https://hasan-siddqui.github.io/my_portfolio/)
 - 📫 Reach me at: **hasanit2001@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code and errors into features!**
