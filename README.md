@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Web Developer | UI/UX Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&width=600&lines=Web+Developer+%7C+Crafting+Elegant+UI/UX;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Tailwind;Open+to+Collaborations+%7C+Always+Learning!" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&width=600&lines=Web+Developer+%7C+Crafting+Elegant+UI/UX;HTML+%7C+CSS+%7C+JavaScript+%7C+WordPress+%7C+React+%7C+Tailwind;Open+to+Collaborations+%7C+Always+Learning!" alt="Typing animation">
 </p>
 
 ---
